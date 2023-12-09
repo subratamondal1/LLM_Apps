@@ -1,0 +1,5 @@
+outs:
+- md5: 47f603ec4ba2ed9bbb109f3d99f24c0a
+  size: 52703
+  hash: md5
+  path: facts.txt
