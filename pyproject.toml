@@ -12,6 +12,7 @@ gpt4all = "^2.0.2"
 google-generativeai = "^0.2.2"
 python-dotenv = "^1.0.0"
 pre-commit = "^3.5.0"
+dvc-s3 = "^2.23.0"
 
 
 [build-system]
