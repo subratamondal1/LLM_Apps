@@ -1,0 +1,5 @@
+outs:
+- md5: e7c2edabd43453f736c4116c6a74ed0b.dir
+  size: 3433188
+  nfiles: 5
+  path: emb
